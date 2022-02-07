@@ -1,31 +1,24 @@
 {
   "files": {
-    "main.css": "/psyche/static/css/main.90e53dfe.chunk.css",
-    "main.js": "/psyche/static/js/main.a4e597d9.chunk.js",
-    "main.js.map": "/psyche/static/js/main.a4e597d9.chunk.js.map",
-    "runtime-main.js": "/psyche/static/js/runtime-main.6260143d.js",
-    "runtime-main.js.map": "/psyche/static/js/runtime-main.6260143d.js.map",
-    "static/js/2.ed7aa2b8.chunk.js": "/psyche/static/js/2.ed7aa2b8.chunk.js",
-    "static/js/2.ed7aa2b8.chunk.js.map": "/psyche/static/js/2.ed7aa2b8.chunk.js.map",
+    "main.css": "/psyche/static/css/main.f2102a7a.css",
+    "main.js": "/psyche/static/js/main.21cd016b.js",
+    "static/media/earth.jpg": "/psyche/static/media/earth.117f05cb08e0156c89cd.jpg",
+    "static/media/psyche.png": "/psyche/static/media/psyche.35b3a9d04231fe61ece9.png",
+    "static/media/bg.mp3": "/psyche/static/media/bg.898c3fe70823778a4940.mp3",
+    "static/media/engine.mp3": "/psyche/static/media/engine.75bbe12e932340d496f2.mp3",
+    "static/media/engine2.mp3": "/psyche/static/media/engine2.87c3c40ac4c6fd10b5dd.mp3",
+    "static/media/explosion.mp3": "/psyche/static/media/explosion.615cfd4360feddbe2f19.mp3",
+    "static/media/warp.mp3": "/psyche/static/media/warp.1f9bec85b9f69b09e2e5.mp3",
+    "static/media/moon.png": "/psyche/static/media/moon.1dd7bdd6651f9a39743c.png",
+    "static/media/mars.jpg": "/psyche/static/media/mars.d5a1f3ac4a0e876e8217.jpg",
+    "static/media/laser.mp3": "/psyche/static/media/laser.373d639d4e0df447e243.mp3",
+    "static/media/click.mp3": "/psyche/static/media/click.db4619876bacdd9898b0.mp3",
     "index.html": "/psyche/index.html",
-    "static/css/main.90e53dfe.chunk.css.map": "/psyche/static/css/main.90e53dfe.chunk.css.map",
-    "static/js/2.ed7aa2b8.chunk.js.LICENSE.txt": "/psyche/static/js/2.ed7aa2b8.chunk.js.LICENSE.txt",
-    "static/media/bg.898c3fe7.mp3": "/psyche/static/media/bg.898c3fe7.mp3",
-    "static/media/click.db461987.mp3": "/psyche/static/media/click.db461987.mp3",
-    "static/media/earth.117f05cb.jpg": "/psyche/static/media/earth.117f05cb.jpg",
-    "static/media/engine.75bbe12e.mp3": "/psyche/static/media/engine.75bbe12e.mp3",
-    "static/media/engine2.87c3c40a.mp3": "/psyche/static/media/engine2.87c3c40a.mp3",
-    "static/media/explosion.615cfd43.mp3": "/psyche/static/media/explosion.615cfd43.mp3",
-    "static/media/laser.373d639d.mp3": "/psyche/static/media/laser.373d639d.mp3",
-    "static/media/mars.d5a1f3ac.jpg": "/psyche/static/media/mars.d5a1f3ac.jpg",
-    "static/media/moon.1dd7bdd6.png": "/psyche/static/media/moon.1dd7bdd6.png",
-    "static/media/styles.css": "/psyche/static/media/psyche.35b3a9d0.png",
-    "static/media/warp.1f9bec85.mp3": "/psyche/static/media/warp.1f9bec85.mp3"
+    "main.f2102a7a.css.map": "/psyche/static/css/main.f2102a7a.css.map",
+    "main.21cd016b.js.map": "/psyche/static/js/main.21cd016b.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6260143d.js",
-    "static/js/2.ed7aa2b8.chunk.js",
-    "static/css/main.90e53dfe.chunk.css",
-    "static/js/main.a4e597d9.chunk.js"
+    "static/css/main.f2102a7a.css",
+    "static/js/main.21cd016b.js"
   ]
 }
