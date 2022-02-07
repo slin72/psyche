@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/psyche/static/css/main.90e53dfe.chunk.css",
-    "main.js": "/psyche/static/js/main.469cacac.chunk.js",
-    "main.js.map": "/psyche/static/js/main.469cacac.chunk.js.map",
+    "main.css": "/psyche/static/css/main.a5d3768f.chunk.css",
+    "main.js": "/psyche/static/js/main.00ba2f60.chunk.js",
+    "main.js.map": "/psyche/static/js/main.00ba2f60.chunk.js.map",
     "runtime-main.js": "/psyche/static/js/runtime-main.024a959d.js",
     "runtime-main.js.map": "/psyche/static/js/runtime-main.024a959d.js.map",
-    "static/js/2.6b875823.chunk.js": "/psyche/static/js/2.6b875823.chunk.js",
-    "static/js/2.6b875823.chunk.js.map": "/psyche/static/js/2.6b875823.chunk.js.map",
+    "static/js/2.d84a800c.chunk.js": "/psyche/static/js/2.d84a800c.chunk.js",
+    "static/js/2.d84a800c.chunk.js.map": "/psyche/static/js/2.d84a800c.chunk.js.map",
     "index.html": "/psyche/index.html",
-    "static/css/main.90e53dfe.chunk.css.map": "/psyche/static/css/main.90e53dfe.chunk.css.map",
-    "static/js/2.6b875823.chunk.js.LICENSE.txt": "/psyche/static/js/2.6b875823.chunk.js.LICENSE.txt",
+    "static/css/main.a5d3768f.chunk.css.map": "/psyche/static/css/main.a5d3768f.chunk.css.map",
+    "static/js/2.d84a800c.chunk.js.LICENSE.txt": "/psyche/static/js/2.d84a800c.chunk.js.LICENSE.txt",
     "static/media/bg.898c3fe7.mp3": "/psyche/static/media/bg.898c3fe7.mp3",
     "static/media/click.db461987.mp3": "/psyche/static/media/click.db461987.mp3",
     "static/media/earth.117f05cb.jpg": "/psyche/static/media/earth.117f05cb.jpg",
@@ -19,13 +19,13 @@
     "static/media/laser.373d639d.mp3": "/psyche/static/media/laser.373d639d.mp3",
     "static/media/mars.d5a1f3ac.jpg": "/psyche/static/media/mars.d5a1f3ac.jpg",
     "static/media/moon.1dd7bdd6.png": "/psyche/static/media/moon.1dd7bdd6.png",
-    "static/media/styles.css": "/psyche/static/media/psyche.35b3a9d0.png",
+    "static/media/styles.css": "/psyche/static/media/psyche.68eedae7.png",
     "static/media/warp.1f9bec85.mp3": "/psyche/static/media/warp.1f9bec85.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.024a959d.js",
-    "static/js/2.6b875823.chunk.js",
-    "static/css/main.90e53dfe.chunk.css",
-    "static/js/main.469cacac.chunk.js"
+    "static/js/2.d84a800c.chunk.js",
+    "static/css/main.a5d3768f.chunk.css",
+    "static/js/main.00ba2f60.chunk.js"
   ]
 }
