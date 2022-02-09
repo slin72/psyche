@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/psyche/static/css/main.a5d3768f.chunk.css",
-    "main.js": "/psyche/static/js/main.00ba2f60.chunk.js",
-    "main.js.map": "/psyche/static/js/main.00ba2f60.chunk.js.map",
+    "main.js": "/psyche/static/js/main.c36701fa.chunk.js",
+    "main.js.map": "/psyche/static/js/main.c36701fa.chunk.js.map",
     "runtime-main.js": "/psyche/static/js/runtime-main.024a959d.js",
     "runtime-main.js.map": "/psyche/static/js/runtime-main.024a959d.js.map",
-    "static/js/2.d84a800c.chunk.js": "/psyche/static/js/2.d84a800c.chunk.js",
-    "static/js/2.d84a800c.chunk.js.map": "/psyche/static/js/2.d84a800c.chunk.js.map",
+    "static/js/2.e2e83a8c.chunk.js": "/psyche/static/js/2.e2e83a8c.chunk.js",
+    "static/js/2.e2e83a8c.chunk.js.map": "/psyche/static/js/2.e2e83a8c.chunk.js.map",
     "index.html": "/psyche/index.html",
     "static/css/main.a5d3768f.chunk.css.map": "/psyche/static/css/main.a5d3768f.chunk.css.map",
-    "static/js/2.d84a800c.chunk.js.LICENSE.txt": "/psyche/static/js/2.d84a800c.chunk.js.LICENSE.txt",
+    "static/js/2.e2e83a8c.chunk.js.LICENSE.txt": "/psyche/static/js/2.e2e83a8c.chunk.js.LICENSE.txt",
     "static/media/bg.898c3fe7.mp3": "/psyche/static/media/bg.898c3fe7.mp3",
     "static/media/click.db461987.mp3": "/psyche/static/media/click.db461987.mp3",
     "static/media/earth.117f05cb.jpg": "/psyche/static/media/earth.117f05cb.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.024a959d.js",
-    "static/js/2.d84a800c.chunk.js",
+    "static/js/2.e2e83a8c.chunk.js",
     "static/css/main.a5d3768f.chunk.css",
-    "static/js/main.00ba2f60.chunk.js"
+    "static/js/main.c36701fa.chunk.js"
   ]
 }
