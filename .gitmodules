@@ -1,0 +1,4 @@
+[submodule "src/react-xr"]
+	path = src/react-xr
+	url = https://github.com/slin72/react-xr
+	branch = psyche_login

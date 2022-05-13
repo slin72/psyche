@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+
+}
+
+
+#root {
+  background-image: url("./images/psyche.png");
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+#mytext {
+  
+  top:20% !important;
+}
+ 
+#ARButton {
+  background: #302144 !important;
+  opacity: 1 !important;
+  bottom: 30% !important;
+}
+
+#VRButton {
+  background: #302144 !important;
+  opacity: 1 !important;
+  bottom: 20% !important;
+}
+
+
